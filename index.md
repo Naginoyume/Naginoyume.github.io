@@ -1,6 +1,4 @@
 # Hello World. 
-
-
-I am learning C++.
+## I am learning C++.
 
 
